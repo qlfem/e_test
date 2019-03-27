@@ -3,6 +3,5 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Hello World222");
 		System.out.println("master");
-=======
 	}
 }
